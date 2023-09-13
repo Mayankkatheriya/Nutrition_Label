@@ -1,2 +1,2 @@
 # Nutrition_Label
-## Hosted Link: https://github.com/Mayankkatheriya/Nutrition_Label
+## Hosted Link: https://mayankkatheriya.github.io/Nutrition_Label/
